@@ -1,0 +1,6 @@
+com/adel/fraud/FraudApplication.class
+com/adel/fraud/FraudCheckHistoryRepository.class
+com/adel/fraud/FraudCheckService.class
+com/adel/fraud/FraudCheckHistory.class
+com/adel/fraud/FraudCheckHistory$FraudCheckHistoryBuilder.class
+com/adel/fraud/FraudController.class

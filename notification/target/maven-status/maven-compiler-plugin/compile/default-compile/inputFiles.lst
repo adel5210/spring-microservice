@@ -1,0 +1,7 @@
+/home/pc7/IdeaProjects/microservice/notification/src/main/java/com/adel/notification/NotificationApplication.java
+/home/pc7/IdeaProjects/microservice/notification/src/main/java/com/adel/notification/rabbitmq/NotificationConsumer.java
+/home/pc7/IdeaProjects/microservice/notification/src/main/java/com/adel/notification/NotificationRepository.java
+/home/pc7/IdeaProjects/microservice/notification/src/main/java/com/adel/notification/Notification.java
+/home/pc7/IdeaProjects/microservice/notification/src/main/java/com/adel/notification/NotificationController.java
+/home/pc7/IdeaProjects/microservice/notification/src/main/java/com/adel/notification/NotificationService.java
+/home/pc7/IdeaProjects/microservice/notification/src/main/java/com/adel/notification/NotificationConfig.java

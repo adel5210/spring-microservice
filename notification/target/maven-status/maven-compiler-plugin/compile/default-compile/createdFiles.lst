@@ -1,0 +1,8 @@
+com/adel/notification/NotificationConfig.class
+com/adel/notification/Notification$NotificationBuilder.class
+com/adel/notification/NotificationService.class
+com/adel/notification/NotificationController.class
+com/adel/notification/NotificationRepository.class
+com/adel/notification/NotificationApplication.class
+com/adel/notification/Notification.class
+com/adel/notification/rabbitmq/NotificationConsumer.class

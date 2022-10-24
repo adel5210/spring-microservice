@@ -1,0 +1,4 @@
+com/adel/clients/notification/NotificationRequest.class
+com/adel/clients/fraud/FraudClient.class
+com/adel/clients/fraud/FraudCheckResponse.class
+com/adel/clients/notification/NotificationClient.class
